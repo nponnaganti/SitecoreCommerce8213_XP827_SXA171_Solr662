@@ -1,0 +1,10 @@
+cd "C:\SitecoreCommerce\SitecoreCommerce8213_XP827_SXA171_Solr662"
+git status
+git add .
+git commit -m "commit message"
+git push origin main
+
+<add name="master" connectionString="user id=sa;password=12345;Data Source=(local)\SQLEXPRESS;Database=nagsxaSitecore_Master"/>
+site name: nagsxa
+--> In order to install commerce server 11.4x, please install windows identity foundation feature from windows server manager
+
